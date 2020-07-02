@@ -1,28 +1,20 @@
-Homework Week 1
+###How to Refactor CSS – A Guide
 
-USER STORY
+##Introduction
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+CSS refactoring needs to be an essential part of the front-end development workflow, if we want to have a manageable and optimized code base. When we refactor CSS, we clean up and reorganize our existing code without adding any new features or fixing bugs.
 
-ACCEPTANCE CRITERIA
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+##Resources 
 
-REVIEW
+[W3schools](https://www.w3schools.com/css/)
+[CSS-Tricks](https://css-tricks.com/starting-a-refactor-with-css-dig/)
+[Hongkiat](https://www.hongkiat.com/blog/code-optimization-series-refactoring-css/)
 
-You are required to submit the following for review:
+##Webpage
 
-The URL of the deployed application.
-The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+[Check-the-console](https://thibsvw.github.io/CSS_Refactoring/.)
+
+##Printscreen
+
+![Printscreen](https://user-images.githubusercontent.com/64518932/86413090-f9f65780-bcf2-11ea-804f-5f28761a5837.JPG)
