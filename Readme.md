@@ -1,15 +1,15 @@
 ### How to Refactor CSS – A Guide
 
-##Introduction
+## Introduction
 
 CSS refactoring needs to be an essential part of the front-end development workflow, if we want to have a manageable and optimized code base. When we refactor CSS, we clean up and reorganize our existing code without adding any new features or fixing bugs.
 
 
 ## Resources 
 
-[W3schools](https://www.w3schools.com/css/)
-[CSS-Tricks](https://css-tricks.com/starting-a-refactor-with-css-dig/)
-[Hongkiat](https://www.hongkiat.com/blog/code-optimization-series-refactoring-css/)
+* [W3schools](https://www.w3schools.com/css/)
+* [CSS-Tricks](https://css-tricks.com/starting-a-refactor-with-css-dig/)
+* [Hongkiat](https://www.hongkiat.com/blog/code-optimization-series-refactoring-css/)
 
 ## Webpage
 
